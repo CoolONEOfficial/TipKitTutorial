@@ -14,6 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		856ADCEB2A8265F90095C1D9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		85A6BDFB2A7D73050066E0D7 /* tiptest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tiptest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		85A6BDFE2A7D73050066E0D7 /* tiptestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tiptestApp.swift; sourceTree = "<group>"; };
 		85A6BE002A7D73050066E0D7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +56,7 @@
 				85A6BE002A7D73050066E0D7 /* ContentView.swift */,
 				85A6BE022A7D73080066E0D7 /* Assets.xcassets */,
 				85A6BE042A7D73080066E0D7 /* Preview Content */,
+				856ADCEB2A8265F90095C1D9 /* README.md */,
 			);
 			path = tiptest;
 			sourceTree = "<group>";
